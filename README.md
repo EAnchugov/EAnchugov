@@ -2,11 +2,11 @@
 
 ### ![7766419 (1)](https://github.com/EAnchugov/EAnchugov/assets/95550175/bd2db194-180b-42f7-a13e-e10724964ebc) About me
 
-My name is Evgenii Anchugov. I'm java developer.
+My name is Evgenii Anchugov. I'm a java developer.
 
-I inspired by creating something new using limited set of commands and data structures.
+I'm inspired by creating something new using limited set of commands and data structures.
 
-In my repositories, you can find projects that I have either created or contributed to. The majority of them are Java REST services built with Spring Boot or Spring Framework.
+In my repositories you can find projects that I have either created or contributed to. The majority of them are Java REST services built with Spring Boot or Spring Framework.
 
 
 
