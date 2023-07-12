@@ -1,7 +1,8 @@
 ### Hello world! 👋
 
 ### About me
-![7766419](https://github.com/EAnchugov/EAnchugov/assets/95550175/766a77cc-ef9e-49fa-9110-cff7f1fb422c)
+![7766419 (1)](https://github.com/EAnchugov/EAnchugov/assets/95550175/09619fe7-d342-4d57-aa2d-942a984e5e3e)
+
 
 
 
