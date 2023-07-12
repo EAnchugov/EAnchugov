@@ -1,4 +1,4 @@
-### Hello world! 👋
+## Hello world! 👋
 
 ### ![7766419 (1)](https://github.com/EAnchugov/EAnchugov/assets/95550175/bd2db194-180b-42f7-a13e-e10724964ebc) About me
 
