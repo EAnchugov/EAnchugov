@@ -1,6 +1,8 @@
 ### Hello world! 👋
 
 ### About me
+![OIP](https://github.com/EAnchugov/EAnchugov/assets/95550175/9fb7064e-c432-416d-8843-03314f9175a1)
+
 
 <!--
 **EAnchugov/EAnchugov** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
